@@ -11300,6 +11300,7 @@ section#contact form#contactForm .form-group textarea {
   padding: 1.25rem;
 }
 section#contact form#contactForm .form-group input.form-control {
+  width: 40%;
   height: auto;
 }
 section#contact form#contactForm .form-group-textarea {
